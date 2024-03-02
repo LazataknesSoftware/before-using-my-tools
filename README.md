@@ -42,6 +42,7 @@ Here are questions that can be asked by future users of my programs to me.
 ---
 
 **Q**: I don't understand how to execute your tool.
+
 **A**: To execute my tool, you must use command prompt (cmd.exe). Follow these steps:
 * On Windows:
     1. Press Win+R
